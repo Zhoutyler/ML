@@ -4,14 +4,14 @@ All of the vectors in both training set and testing set have 54 dimensions.
 
 Each element of such a vector representing the frequency of a certain character appeared in the mail
 
-For the generative model of $X$
+For the generative model of $ X $
 
-Suppose $x_{ij} ~ Poisson(\lambda_j)$
+Suppose $ x_{ij} ~ Poisson(\lambda_j) $
 
-And $\vec \lambda ~ Gamma(\alpha, \beta)$
+And $ \vec \lambda ~ Gamma(\alpha, \beta) $
 
-For the label $\vec y$, suppose $y ~ Bern(\pi)$
+For the label $ \vec y$, suppose $y ~ Bern(\pi) $
 
-and $\pi ~ beta(e,f)$
+and $ \pi ~ beta(e,f) $
 
-Here we assume $\alpha, \beta, e, f = 1$
+Here we assume $ \alpha, \beta, e, f = 1 $
