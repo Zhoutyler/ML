@@ -1,4 +1,4 @@
-##Using naive bayesian classifier to recognize spam mails
+## Using naive bayesian classifier to recognize spam mails
 
 All of the vectors in both training set and testing set have 54 dimensions.
 
