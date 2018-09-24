@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-import pandas as pd
+__author__ = "Yanzhao Zhou yz3395"
+
 import numpy as np
 from scipy.stats import nbinom
 import matplotlib.pyplot as plt
