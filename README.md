@@ -22,7 +22,7 @@ Here we assume $ \alpha, \beta, e, f = 1 $
 
 Model as generating from binomial mixture model
 
-![alt text](https://github.com/Zhoutyler/ML/HW4/description_for_readme.png)
+![alt text](https://github.com/Zhoutyler/ML/blob/master/HW4/description_for_readme.png)
 
 Using Maximum likelihood-EM to get MAP estimate for model variables pi, theta.
 
