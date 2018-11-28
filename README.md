@@ -19,8 +19,13 @@ Here we assume $ \alpha, \beta, e, f = 1 $
 ## /HW4 ML-EM, VI, Marginalized Gibbs Sampler for Binomial Mixture Model
 
 2000-dimensional data in range [0, 20]
+
 Model as generating from binomial mixture model
-![alt text](./HW4/description_for_readme.png)
+
+![alt text](https://github.com/Zhoutyler/ML/HW4/description_for_readme.png)
+
 Using Maximum likelihood-EM to get MAP estimate for model variables pi, theta.
+
 Using Variational inference to get parameters of full posterior of model variables.
+
 Using Marginalized gibbs sampling to get cluster distribution for each data points in infinite cluster number context.
